@@ -14,6 +14,8 @@ const Mymantra = () => {
 
 
         <div>
+
+          
           <div className="border-2 border-white bg-[#013345] rounded-lg mt-5 lg:mt-20 p-8">
             <p className="text-white text-[20px] lg:text-3xl font-bricolage">
               &quot;Teaching isn&apos;t about words — it&apos;s about
