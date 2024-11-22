@@ -11,6 +11,8 @@ const Mymantra = () => {
           <hr className="h-1 w-[100px] lg:w-[872px]" />
         </div>
 
+
+
         <div>
           <div className="border-2 border-white bg-[#013345] rounded-lg mt-5 lg:mt-20 p-8">
             <p className="text-white text-[20px] lg:text-3xl font-bricolage">

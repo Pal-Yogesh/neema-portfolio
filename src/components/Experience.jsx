@@ -50,6 +50,8 @@ const Experience = () => {
                   src={experience.image}
                   width={1000}
                   height={1000}
+
+                  
                   alt="img"
                   className="w-[86px] h-[86px]"
                 />
